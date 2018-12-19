@@ -1,0 +1,22 @@
+.Container{
+    display: flex;
+    flex-direction: column;
+    /* padding: 2em; */
+}
+.imagePicker{
+    display:flex;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.mainImage image{
+    height: 250px;
+    width: 250px;
+}
+.memePreview{
+    background-color: purple;
+}
+.textInput{
+    background-color: green;
+}
